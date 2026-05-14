@@ -72,6 +72,3 @@ The script successfully:
 ![Output](output-task2.png)
 
 ---
-
-## Author
-Koyel
